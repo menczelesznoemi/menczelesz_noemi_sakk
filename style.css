@@ -1,0 +1,42 @@
+body {
+    width: auto;
+}
+
+
+
+main {
+
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+
+
+article {
+    
+    display: block;
+    background-color: white;
+    width: auto;
+    height: unset;
+
+}
+
+#tabla {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+table, th, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    }
+
+
+td {
+    height: 80px;
+    width: 80px;
+}
+
+
